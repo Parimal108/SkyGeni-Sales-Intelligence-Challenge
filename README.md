@@ -18,7 +18,7 @@ Key Insights
 Clone the repository:
 
 Bash
-git clone https://github.com/your-username/skygeni-sales-analysis.git
+git clone https://github.com/Parimal108/skygeni-sales-analysis.git
 Navigate to the directory:
 
 Bash
